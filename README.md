@@ -4,7 +4,8 @@ Hi 👋 My name is Pakpoom Srianoot
 Software Developer
 ------------------
 
-Recent Computer Science graduate with internship experience. Currently working on a personal project and learning C# to enhance my skills. Passionate about software development and eager to grow in this field.
+Recent Computer Science graduate with internship experience. 
+Currently working on a personal project and learning C# to enhance my skills. Passionate about software development and eager to grow in this field.
 
 * ✉️  You can contact me at [pakpoom.sria@gmail.com](mailto:pakpoom.sria@gmail.com)
 

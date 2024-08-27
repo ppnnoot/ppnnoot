@@ -5,7 +5,7 @@ Software Developer
 ------------------
 
 Recent Computer Science graduate with internship experience. 
-Currently working on a personal project and learning GoLang<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /> to enhance my skills. Passionate about software development and eager to grow in this field.
+Currently working on a personal project and learning GoLang<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36"/> to enhance my skills. Passionate about software development and eager to grow in this field.
 
 * ✉️  You can contact me at [pakpoom.sria@gmail.com](mailto:pakpoom.sria@gmail.com)
 

@@ -5,7 +5,7 @@ Software Developer
 ------------------
 
 Recent Computer Science graduate with internship experience. 
-Currently working on a personal project and learning GoLang<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1024px-Go_Logo_Blue.svg.png" width="30" height="15" alt="Go"/> to enhance my skills. Passionate about software development and eager to grow in this field.
+Currently working on a personal project and learning GoLang<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1024px-Go_Logo_Blue.svg.png" width="35" height="15" alt="Go"/> to enhance my skills. Passionate about software development and eager to grow in this field.
 
 * ✉️  You can contact me at [pakpoom.sria@gmail.com](mailto:pakpoom.sria@gmail.com)
 

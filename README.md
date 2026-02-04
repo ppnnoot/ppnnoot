@@ -44,12 +44,6 @@ Currently, I am architecting a greenfield HR Payroll System and exploring System
 
 <br>
 
-### 💼 Key Experience
-
-**Application Contributor @ K&O Systems**
-- Architected a **SaaS HR Payroll** platform with **Multi-tenancy** strategy for data isolation.
-- Developed scalable Modular Layered Architecture using **Node.js, TypeScript, and Supabase**.
-- Implemented **Real-time** communication for Web AI Chatbot platform using WebSockets.
 
 <br>
 
